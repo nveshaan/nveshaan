@@ -60,7 +60,8 @@ p{
     margin: 0 auto;
 }
 .image:hover{
-    opacity: 50%;
+    padding: 5px;
+    border: white solid 1px;
 }
 #list{
     color: white;
@@ -72,7 +73,9 @@ nav {
     text-align: center;
     height: 50px;
 }
-
+nav a:hover{
+    color:crimson;
+}
 nav a {
     text-decoration: none;
     padding: 20px;
