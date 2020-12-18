@@ -8,6 +8,9 @@ body {
     margin: 0;
     padding: 0;
   }
+head{
+    overflow: hidden;
+}
 h1{
     color: #141E30;
     background-color: rgb(157, 204, 248);
@@ -68,21 +71,20 @@ p{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 nav {
+    padding-top: 13px;
     background-color: rgb(28, 50, 70);
     overflow: hidden;
     text-align: center;
-    height: 50px;
+    height: 40px;
 }
 nav a:hover{
     color:crimson;
 }
 nav a {
     text-decoration: none;
-    padding: 20px;
-    text-align: center;
-    float: center;
+    padding: 30px;
     color: white;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 20px;
-    border: rgb(28, 50, 70) solid 10px;
 }
+
