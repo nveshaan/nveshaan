@@ -7,6 +7,7 @@ body {
     background: linear-gradient(-45deg, #2b61a3, #141E30);
     margin: 0;
     padding: 0;
+    top: 50px;
   }
 head{
     overflow: hidden;
@@ -76,6 +77,9 @@ nav {
     overflow: hidden;
     text-align: center;
     height: 40px;
+    position: fixed;
+    width: 100%;
+    top: 0px;
 }
 nav a:hover{
     color:crimson;
@@ -87,4 +91,3 @@ nav a {
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 20px;
 }
-
