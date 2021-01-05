@@ -1,5 +1,5 @@
 *{
-    transition: 0.2s;
+    transition: 1s;
 }
 body {
     /* Old browsers */
@@ -65,6 +65,7 @@ p{
 .image{
     display: block;
     margin: 0 auto;
+    transition: 0.2s;
 }
 .image:hover{
     padding: 5px;
@@ -83,6 +84,7 @@ nav {
     position: fixed;
     width: 100%;
     top: 0px;
+    display: block;
 }
 nav a:hover{
     color:crimson;
@@ -93,6 +95,7 @@ nav a {
     color: white;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 20px;
+    transition: 0.5s;
 }
 #main{
     top: 40px;
