@@ -4,7 +4,7 @@
 
 - 🔭 I just launched my course: [ICSE - Computer Applications (JAVA)][course]!
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking to collaborate with other content creators and coders
 - 🥅 2021 Goals: Contribute more to Open Source projects(mostly manim😅)
 - ⚡ Fun fact: I love nature and anime
 
