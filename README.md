@@ -39,7 +39,7 @@
 
 [website]: https://nveshaan.github.io/nveshaan/
 [course]: https://youtube.com/playlist?list=PLUaskoKWGLbE_u35ra2gdFg1iJktrVUK4
-[twitter]: https://twitter.com/nveshaan
+[twitter]: https://twitter.com/Eshaan84692320
 [youtube]: https://www.youtube.com/channel/UCMavaYUPeE-bwheMerEIpJg/featured
 [instagram]: https://instagram.com/nveshaan
 [linkedin]: https://linkedin.com/in/nveshaan
