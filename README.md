@@ -3,7 +3,8 @@
 ## I'm a High School Student, Coder, and YouTuber!!
 
 - 🔭 I just launched my course: [ICSE - Computer Applications (JAVA)][course]!
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything
+- 🧑‍🔬 I love math and science
 - 👯 I’m looking to collaborate with other content creators and coders
 - 🥅 2021 Goals: Contribute more to Open Source projects(mostly manim😅)
 - ⚡ Fun fact: I love nature and anime
