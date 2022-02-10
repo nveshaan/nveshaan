@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning everything
 - 🧑‍🔬 I love math and science
 - 👯 I’m looking to collaborate with other content creators and coders
-- 🥅 2021 Goals: Contribute more to Open Source projects(mostly manim😅)
+- 🥅 2022 Goals: Contribute more to Open Source projects(mostly manim😅)
 - ⚡ Fun fact: I love nature and anime
 
 ### Connect with me:
