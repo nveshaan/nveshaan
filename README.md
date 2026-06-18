@@ -1,3 +1,6 @@
+<img width="3241" height="1143" alt="banner" src="https://github.com/user-attachments/assets/cf563a58-a7ca-43cf-96e0-b8b0c89e2f7b" />
+
+---
 
 The following repos contain several algorithms that I have implemented from scratch. The main motive is to understand the fundamentals and inner workings of everything I have learned. Feel free to take a look at my notebooks:
 
