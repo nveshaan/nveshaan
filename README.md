@@ -1,4 +1,4 @@
-<img width="3241" height="1714" alt="my university" src="https://github.com/user-attachments/assets/7dab4b2b-6166-48f7-8cc7-30511cfdba31" />
+<img width="3241" height="1094" alt="banner (1)" src="https://github.com/user-attachments/assets/1e23919f-f56e-48c6-b2cf-bd8c2fcb8da0" />
 
 ---
 The following repos contain several algorithms that I have implemented from scratch. The main motive is to understand the fundamentals and inner workings of everything I have learned. Feel free to take a look at my notebooks:
